@@ -1,0 +1,32 @@
+{
+  "studentdata": [
+    {
+      "name": "parihar",
+      "email": "parihar@gmail.com",
+      "qualification": "btech",
+      "currentdate": "2/3/21",
+      "id": "1kDzuxV"
+    },
+    {
+      "name": "rohit",
+      "email": "rohit@walkingtree.tech",
+      "qualification": "bca",
+      "currentdate": "Fri Jun 04 2021",
+      "id": "TAjLtTj"
+    },
+    {
+      "name": "vikrant",
+      "email": "vikrant@walkingtree.tech",
+      "qualification": "mca",
+      "currentdate": "Fri Jun 04 2021",
+      "id": "Djd0zPZ"
+    },
+    {
+      "name": "shashi",
+      "email": "shashi@gmail.co",
+      "qualification": "mca",
+      "currentdate": "Mon Jun 07 2021",
+      "id": "TJunjNT"
+    }
+  ]
+}
